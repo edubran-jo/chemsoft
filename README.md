@@ -20,4 +20,4 @@ The project was created using Python, with the matplotlib, for graph building, n
 
 If having doubts or suggestions, please contact.
 
-Thank you
+Thank you.
